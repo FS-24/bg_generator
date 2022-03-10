@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(to right,#FFFF00, #FF0000);
+text-align: center;}
+input{
+    cursor: pointer;
+}
